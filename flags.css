@@ -75,7 +75,29 @@ body {
     width: 100%;  
 }
 /* Benin */
-
+.benin {
+    height: 15vw;
+    width: 30vw;
+  }
+  .beninLeft {
+    background-color: green;
+    display: inline-block;
+    height: 100%;
+    width: 30%;
+  }
+  .beninRight {
+    display: inline-block;
+    height: 100%;
+    width: 50%;
+  }
+  .beninTop {
+    background-color: rgb(241, 238, 46);
+    height: 50%;
+  }
+  .beninBottom {
+    background-color: red;
+    height: 50%;
+  }
 /* Sweden */
 
 /* Switzerland */
